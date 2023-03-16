@@ -9,4 +9,5 @@ Reebok99/Reebok99 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Code - JavaScript](https://img.shields.io/badge/Code-JavaScript-FCDC00?logo=javascript&logoColor=white)](https://www.javascript.com/) [![Code - Python](https://img.shields.io/badge/Code-Python-3676AB?logo=python&logoColor=white)](https://www.javascript.com/) [![Code - MySQL](https://img.shields.io/badge/Code-MySQL-3676AB?logo=mysql&logoColor=white)](https://www.javascript.com/)
+[![Code - JavaScript](https://img.shields.io/badge/Code-JavaScript-FCDC00?logo=javascript)](https://www.javascript.com/) [![Code - Python](https://img.shields.io/badge/Code-Python-3676AB?logo=python&logoColor=white)](https://www.javascript.com/) [![Code - MySQL](https://img.shields.io/badge/Code-MySQL-3676AB?logo=mysql&logoColor=white)](https://www.javascript.com/) [![Code - PostgreSQL](https://img.shields.io/badge/Code-PostgreSQL-3676AB?logo=postgresql&logoColor=white)](https://www.javascript.com/)
+
