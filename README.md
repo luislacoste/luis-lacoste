@@ -9,4 +9,4 @@
 [![Tool - NPM](https://img.shields.io/badge/Tool-NPM-CB0001?logo=NPM)](https://www.npmjs.com/) [![Tool - Git](https://img.shields.io/badge/Tool-Git-F05032?logo=git)](https://git-scm.com/) [![Tool - GitHub](https://img.shields.io/badge/Tool-GitHub-0E1117?logo=github)](https://github.com/)
 
 <!--- Socials --->
-[![Social - Instagram](https://img.shields.io/badge/Social-Instagram-E3405F?logo=instagram&logoColor=white)](https://instagram.com/luislacoste_?igshid=YWVjMmZiZjg=) [![Social - Twitter](https://img.shields.io/badge/Social-Twitter-1DA1F1?logo=twitter)](https://twitter.com/luis_lacoste)
+[![Social - Twitter](https://img.shields.io/badge/Social-Twitter-1DA1F1?logo=twitter)](https://twitter.com/luis_lacoste) [![Social - Instagram](https://img.shields.io/badge/Social-Instagram-E3405F?logo=instagram&logoColor=white)](https://instagram.com/luislacoste_?igshid=YWVjMmZiZjg=) 
