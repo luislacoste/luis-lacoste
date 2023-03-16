@@ -9,5 +9,5 @@ Reebok99/Reebok99 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Code - JavaScript](https://img.shields.io/badge/Code-JavaScript-FCDC00?logo=javascript)](https://www.javascript.com/) [![Code - Node.js](https://img.shields.io/badge/Code-Node.js-62B648?logo=node.js&logoColor=white)](https://nodejs.org/en) [![Code - Python](https://img.shields.io/badge/Code-Python-3676AB?logo=python)](https://www.javascript.com/) [![Code - MySQL](https://img.shields.io/badge/Code-MySQL-3676AB?logo=mysql&logoColor=white)](https://www.javascript.com/) [![Code - PostgreSQL](https://img.shields.io/badge/Code-PostgreSQL-3676AB?logo=postgresql&logoColor=white)](https://www.javascript.com/)
+[![Code - JavaScript](https://img.shields.io/badge/Code-JavaScript-FCDC00?logo=javascript)](https://www.javascript.com/) [![Code - Python](https://img.shields.io/badge/Code-Python-3676AB?logo=python)](https://www.python.org/) [![Code - Node.js](https://img.shields.io/badge/Code-Node.js-62B648?logo=node.js&logoColor=62B648)](https://nodejs.org/en) [![Code - MySQL](https://img.shields.io/badge/Code-MySQL-3676AB?logo=mysql&logoColor=white)](https://www.mysql.com/) [![Code - PostgreSQL](https://img.shields.io/badge/Code-PostgreSQL-3676AB?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
